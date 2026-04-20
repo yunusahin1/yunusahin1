@@ -1,16 +1,27 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**yunusahin1/yunusahin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Yunus Sahin**, a Data Scientist with a strong mathematical background and expertise in building scalable AI solutions. Specialized in dynamic pricing strategies, time series forecasting, and deep learning. Committed to leveraging data-driven insights to optimize decision-making and drive measurable business growth.
 
-Here are some ideas to get you started:
+## Skills
+  - Languages: Python, SQL, Java, C
+  - Machine Learning & AI: TensorFlow, Keras, PyTorch, Scikit-Learn, MLflow, Deep Learning, NLP
+  - Tools & Frameworks: FastAPI, Docker, Git, PostgreSQL
+  - Core Competencies: Statistical Analysis, Linear Algebra, Time Series Analysis, Data Interpretation, Scalable Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+  - Data science and AI
+  - Machine learning
+  - Deep learning
+  - Natural language processing
+  - Time series forecasting
+  - Dynamic pricing
+  - Data engineering
+  - Statistical analysis
+  - Scalable solutions
+  - Business intelligence
+
+## Programming languages
+  - Python
+  - SQL
+  - Java
+  - C
